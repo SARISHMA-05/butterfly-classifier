@@ -25,7 +25,12 @@ This project is a deep learning-based image classification model to identify dif
 
 ## 📦 Dataset
 
-Dataset used: [Butterfly Species Dataset](https://www.kaggle.com/datasets/)
+Dataset used:## 📦 Dataset
+
+Dataset used: [Butterfly Image Classification on Kaggle](https://www.kaggle.com/datasets/phucthaiiv02/butterfly-image-classification)
+
+> This dataset contains high-quality images of different butterfly species for classification tasks.
+
 
 > Note: Dataset can be uploaded to Colab from local or Google Drive.
 
