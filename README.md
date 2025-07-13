@@ -9,9 +9,10 @@ This project is a deep learning-based image classification model to identify dif
 - Provides predictions with confidence scores.
 - Fully runnable in **Google Colab**.
 
-## 🔗 Open in Colab
+🔗 Open in Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/butterfly-classifier/blob/main/butterfly_classifier.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SARISHMA-05/butterfly-classifier/blob/main/butterfly_classifier.ipynb)
+
 
 > Replace `your-username` with your GitHub username.
 
